@@ -1,0 +1,12 @@
+2020-04-15T18:19:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-04-15T19:01:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\media-template.php on line 1467
+
+2020-04-15T19:03:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-admin\includes\media.php on line 3748
+
+2020-04-15T19:03:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-admin\includes\media.php on line 3748
+
+2020-04-15T19:03:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-admin\includes\media.php on line 3748
+
+2020-04-15T19:30:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\Requests\IRI.php on line 1085
+
